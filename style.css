@@ -1,0 +1,63 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.mejenda {
+
+    color: rgb(255, 0, 128);
+    font-weight: bold;
+    
+}
+.button {
+    text-decoration: none;
+    padding: 8px 20px;
+    background-color: rgb(255, 0, 128) ;
+    color: white;
+    border-radius:5px ;
+    font-weight:bold;
+
+}
+ .header{
+      background-image: url(images/header-bg.png);
+ }
+ .half-width{
+    width: 50%;
+     float: left;
+ }
+ .image{
+
+    height: 300px;
+ }
+ .biography{
+     background-image: url(images/biography-bg.png);
+    
+ }
+
+ .latest-work { background-image:url(images/latest-work-bg.png)
+
+
+ }
+ h1 { 
+     text-align: center;
+    
+ }
+ .rasel {
+     float: left;
+    
+   
+ }
+ .fotter{
+    background-image:url(images/footer-bg.png);
+}
+.last{
+
+    text-align: center;
+}
+#hmm{
+    margin:300px;
+}
+.hellow {
+    margin: auto;
+  width: 20%;
+
+  padding: 20px;
+}
